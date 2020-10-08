@@ -1,0 +1,2 @@
+Objective:
+The objective of this homework is to refactor the exisiting code to clean it up. This application is set using an html, which is found int he index.html file. The styling for this application is in the assets folder, there you will find the css file and the images used. 
